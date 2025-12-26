@@ -1,0 +1,39 @@
+{
+  "title": "Mathematics Sectional Test 1",
+  "subject": "Mathematics",
+  "duration": 30,
+  "questions": 5,
+  "negativeMarking": 0.25,
+  "questions": [
+    {
+      "text": "What is the value of π (pi) up to two decimal places?",
+      "options": ["3.14", "3.15", "3.16", "3.13"],
+      "correctAnswer": 0,
+      "explanation": "The value of π is approximately 3.14159, which rounds to 3.14 to two decimal places."
+    },
+    {
+      "text": "Solve: 15 + 8 × 3 ÷ 4",
+      "options": ["18", "21", "24", "27"],
+      "correctAnswer": 1,
+      "explanation": "Using BODMAS: 8 × 3 = 24, 24 ÷ 4 = 6, 15 + 6 = 21"
+    },
+    {
+      "text": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": 2,
+      "explanation": "12 × 12 = 144, so √144 = 12"
+    },
+    {
+      "text": "If a triangle has angles 60° and 70°, what is the third angle?",
+      "options": ["40°", "50°", "60°", "70°"],
+      "correctAnswer": 1,
+      "explanation": "Sum of angles in triangle = 180°. Third angle = 180 - (60 + 70) = 50°"
+    },
+    {
+      "text": "What is 25% of 200?",
+      "options": ["25", "50", "75", "100"],
+      "correctAnswer": 1,
+      "explanation": "25% of 200 = (25/100) × 200 = 50"
+    }
+  ]
+}
