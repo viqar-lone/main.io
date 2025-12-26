@@ -1,0 +1,92 @@
+{
+  "fullTests": [
+    {
+      "id": "full-1",
+      "title": "Full Mock Test 1",
+      "description": "Complete practice test covering all subjects",
+      "duration": 120,
+      "questions": 100,
+      "subjects": ["Mathematics", "Reasoning", "English", "General Knowledge"],
+      "file": "full-test-1.json",
+      "negativeMarking": 0.25
+    },
+    {
+      "id": "full-2",
+      "title": "Full Mock Test 2",
+      "description": "Advanced level practice test",
+      "duration": 180,
+      "questions": 150,
+      "subjects": ["All Subjects"],
+      "file": "full-test-2.json",
+      "negativeMarking": 0.33
+    }
+  ],
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "description": "Quantitative aptitude and mathematics questions",
+      "tests": [
+        {
+          "id": "math-1",
+          "title": "Mathematics Sectional Test 1",
+          "description": "Basic arithmetic and algebra",
+          "duration": 30,
+          "questions": 25,
+          "file": "math-test-1.json",
+          "negativeMarking": 0.25
+        },
+        {
+          "id": "math-2",
+          "title": "Advanced Mathematics",
+          "description": "Advanced math concepts and problem solving",
+          "duration": 45,
+          "questions": 35,
+          "file": "math-test-2.json",
+          "negativeMarking": 0.25
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning",
+      "description": "Logical and analytical reasoning",
+      "tests": [
+        {
+          "id": "reasoning-1",
+          "title": "Logical Reasoning Test 1",
+          "description": "Patterns, sequences, and logic puzzles",
+          "duration": 30,
+          "questions": 30,
+          "file": "reasoning-test-1.json",
+          "negativeMarking": 0.25
+        },
+        {
+          "id": "reasoning-2",
+          "title": "Verbal Reasoning",
+          "description": "Statement and argument analysis",
+          "duration": 25,
+          "questions": 20,
+          "file": "reasoning-test-2.json",
+          "negativeMarking": 0.25
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "description": "Grammar, vocabulary, and comprehension",
+      "tests": [
+        {
+          "id": "english-1",
+          "title": "English Grammar Test",
+          "description": "Basic grammar rules and usage",
+          "duration": 20,
+          "questions": 20,
+          "file": "english-test-1.json",
+          "negativeMarking": 0.25
+        }
+      ]
+    }
+  ]
+}
