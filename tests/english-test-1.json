@@ -1,0 +1,333 @@
+{
+  "title": "English Grammar Error Spotting - Articles & Prepositions",
+  "subject": "English",
+  "duration": 45,
+  "questions": 54,
+  "negativeMarking": 0.25,
+  "questions": [
+    {
+      "text": "The loss of jobs is regarded by some as an necessary evil in the fight against inflation.",
+      "options": ["(a) The loss of jobs", "(b) is regarded by some as an necessary evil", "(c) in the fight against inflation", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "Use 'a' instead of 'an' before 'necessary evil'. 'necessary' does not start with a vowel sound, it starts with a consonant sound."
+    },
+    {
+      "text": "It is a quarter to ten by my watch.",
+      "options": ["(a) It is a", "(b) quarter to ten", "(c) by my watch", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "Remove 'a' before 'quarter to ten'. We don't use an article before time expressions like 'quarter to ten'."
+    },
+    {
+      "text": "Gita doesn't usually wear jewellery but yesterday she wore ring.",
+      "options": ["(a) Gita doesn't usually", "(b) wear jewellery but yesterday", "(c) she wore ring", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "'ring' is a singular countable noun being mentioned for the first time. Hence, use 'a ring'."
+    },
+    {
+      "text": "The police asked us about our movements on a night of crime.",
+      "options": ["(a) The police asked us", "(b) about our movements", "(c) on a night of crime", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "'night of crime' refers to the specific night when the crime happened. Hence, use the definite article 'the night of crime'."
+    },
+    {
+      "text": "In science the credit goes to a man who convinces the world, not to the man to whom the idea first occurs.",
+      "options": ["(a) In science the credit goes to a man", "(b) who convinces the world,", "(c) not to the man to whom the idea first occurs", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "The man who convinced the world is a specific person. Hence, use the definite article 'the man'."
+    },
+    {
+      "text": "It is only after the match is over that people realize how exciting it is.",
+      "options": ["(a) It is only after", "(b) the match is over", "(c) that people realize how exciting it is", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "We are not talking about a specific match. The meaning is that when any match is over, people realize how exciting it was. Hence, use 'a match'."
+    },
+    {
+      "text": "Of the two sisters, she is better.",
+      "options": ["(a) Of the two", "(b) sisters, she", "(c) is better", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "When choosing one of two, we use comparative degree with 'the'. Hence, use 'the better'."
+    },
+    {
+      "text": "It is unfortunate enough to lose few friends we make during our school days.",
+      "options": ["(a) It is unfortunate enough", "(b) to lose few friends we make", "(c) during our school days", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "We are talking about specific friends (the ones we make during school days). Hence, use 'the few friends'."
+    },
+    {
+      "text": "There were a number of intelligent gentlemen at the party but it was Mr. Subramaniam, an eminent scientist, who remained centre of attraction.",
+      "options": ["(a) There were a number of intelligent gentlemen at the party", "(b) but it was Mr. Subramaniam, an eminent scientist,", "(c) who remained centre of attraction", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "'centre of attraction' refers to a specific position. Hence, use 'the centre of attraction'."
+    },
+    {
+      "text": "I have been informed that Mr. Sharma, the director and the chairman will visit Patna the following month.",
+      "options": ["(a) I have been informed that", "(b) Mr. Sharma, the director and the chairman", "(c) will visit Patna the following month", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "Mr. Sharma is one person holding two positions. Hence, use only one 'the': 'the director and chairman'."
+    },
+    {
+      "text": "He is the best worker of the factory but unfortunately least paid.",
+      "options": ["(a) He is", "(b) the best worker of the factory", "(c) but unfortunately least paid", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "'least' is the superlative degree. Hence, use 'the least paid'."
+    },
+    {
+      "text": "He has come out with an unique proposal for his friends.",
+      "options": ["(a) He has come out", "(b) with an unique proposal", "(c) for his friends", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "'unique' starts with a consonant sound ('y' sound), so use 'a' instead of 'an'."
+    },
+    {
+      "text": "When the house was set on the fire, all the people started shouting at the top of their voices.",
+      "options": ["(a) When the house was", "(b) set on the fire", "(c) all the people started shouting at the top of their voices", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "The correct phrase is 'set on fire', not 'set on the fire'."
+    },
+    {
+      "text": "Little knowledge of medicine that he possessed proved to be a blessing for him when he was in great pain.",
+      "options": ["(a) Little knowledge", "(b) of medicine that he possessed", "(c) proved to be a blessing for him when he was in great pain", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "Here 'little' means 'some small amount' (not 'none'). Hence, use 'a little knowledge' or 'the little knowledge'."
+    },
+    {
+      "text": "It was by a mistake that he injured her hand.",
+      "options": ["(a) It was", "(b) by a mistake", "(c) that he injured her hand", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "The correct phrase is 'by mistake', not 'by a mistake'."
+    },
+    {
+      "text": "These orders of the Manager may put the lives of two thousand workers in a danger.",
+      "options": ["(a) These orders of", "(b) the Manager", "(c) may put the lives of two thousand workers in a danger", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "The correct phrase is 'in danger', not 'in a danger'."
+    },
+    {
+      "text": "I inspired him to take the heart in all adverse situations and deserve to be called a real hero.",
+      "options": ["(a) I inspired him", "(b) to take the heart", "(c) in all adverse situations and deserve to be called a real hero", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "The correct phrase is 'to take heart' (meaning 'to be encouraged'), not 'to take the heart'."
+    },
+    {
+      "text": "The most happy marriage would be a union of a deaf man and a blind woman.",
+      "options": ["(a) The most happy", "(b) marriage would be", "(c) a union of a deaf man and a blind woman", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We are talking about marriage in general, not a specific union. Hence, use 'union' without 'a' or use 'the union' if referring to a specific concept."
+    },
+    {
+      "text": "John suggested to the children of his village that they should go to the school regularly and do their homework sincerely.",
+      "options": ["(a) John suggested to", "(b) the children of his village that they should", "(c) go to the school regularly and do their homework sincerely", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "When 'school' refers to the activity of studying, we don't use 'the'. Hence, 'go to school' is correct."
+    },
+    {
+      "text": "Some people say that her husband is in the jail and so she lives alone.",
+      "options": ["(a) Some people say that", "(b) her husband is in the jail", "(c) and so she lives alone", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "When 'jail' refers to the institution/punishment, we don't use 'the'. Hence, 'in jail' is correct."
+    },
+    {
+      "text": "The Greek peoples are considered very brave.",
+      "options": ["(a) The Greek peoples", "(b) are considered", "(c) very brave", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "'Peoples' means different ethnic groups. For the Greek nation, use 'the Greek people' or 'the Greeks'."
+    },
+    {
+      "text": "His father asked him to go to the temple every morning.",
+      "options": ["(a) His father", "(b) asked him to go", "(c) to the temple every morning", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "When 'temple' refers to worship/religious activity, we don't use 'the'. Hence, 'go to temple' is correct."
+    },
+    {
+      "text": "There was little milk in the refrigerator and she gave it to her crying son.",
+      "options": ["(a) There was little", "(b) milk in the refrigerator and she gave it", "(c) to her crying son", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "Here we mean 'some milk' (not 'no milk'). Hence, use 'a little milk'."
+    },
+    {
+      "text": "He leads a very luxurious life so he goes to every part of India by a car.",
+      "options": ["(a) He leads", "(b) a very luxurious life", "(c) so he goes to every part of India by a car", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "The correct phrase is 'by car', not 'by a car'."
+    },
+    {
+      "text": "Thanks to an effort and persistence of the doctors, the victims of the blast have been able to start a normal life again.",
+      "options": ["(a) Thanks to an effort", "(b) and persistence of the doctors, the victims of the blast", "(c) have been able to start a normal life again", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "'Effort' is specific here (the doctors' effort). Hence, use 'the effort'."
+    },
+    {
+      "text": "In a hour's time I will be back but now I have to go.",
+      "options": ["(a) In a hour's time", "(b) I will be back", "(c) but now I have to go", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "'hour' starts with a vowel sound, so use 'an hour' instead of 'a hour'."
+    },
+    {
+      "text": "Terrorist organizations kill innocent people to spread a violence.",
+      "options": ["(a) Terrorist organizations", "(b) kill innocent people", "(c) to spread a violence", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "'violence' is an uncountable noun. We don't use 'a' with uncountable nouns. Hence, 'spread violence' is correct."
+    },
+    {
+      "text": "Whole world is today facing the threat of extinction due to the inventions of Science.",
+      "options": ["(a) Whole world is", "(b) today facing the threat of extinction", "(c) due to the inventions of Science", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "Use 'the' before 'whole world': 'The whole world'."
+    },
+    {
+      "text": "The answer to all the sufferings of human beings lies in the Science.",
+      "options": ["(a) The answer", "(b) to all the sufferings of", "(c) human beings lies in the Science", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We don't use 'the' before names of subjects. Hence, 'in Science' is correct."
+    },
+    {
+      "text": "The police should exercise their authority with little bit of sensitivity and humanity.",
+      "options": ["(a) The police should exercise", "(b) their authority with little", "(c) bit of sensitivity and humanity", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "Here we mean 'some small amount'. Hence, use 'a little bit' instead of 'little bit'."
+    },
+    {
+      "text": "This is most important lesson which we will have to study very carefully.",
+      "options": ["(a) This is", "(b) most important", "(c) lesson which we will have to study very carefully", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "'most' is superlative degree. Hence, use 'the most important'."
+    },
+    {
+      "text": "The Ganges is for North India what Krishna is for South India.",
+      "options": ["(a) The Ganges", "(b) is for North India", "(c) what Krishna is for South India", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We use 'the' before names of rivers. Hence, 'the Krishna' is correct."
+    },
+    {
+      "text": "I like to travel by the air as I am a very busy person.",
+      "options": ["(a) I like to travel", "(b) by the air as", "(c) I am a very busy person", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "The correct phrase is 'by air', not 'by the air'."
+    },
+    {
+      "text": "The Chairman and the Trustee was removed from his post because he had misappropriated the fund.",
+      "options": ["(a) The Chairman and the Trustee", "(b) was removed from his", "(c) post because he had misappropriated the fund", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "One person holds both positions. Hence, use only one 'the': 'The Chairman and Trustee'."
+    },
+    {
+      "text": "She found herself in a trouble when she saw the stalker following her persistently.",
+      "options": ["(a) She found", "(b) herself in a trouble", "(c) when she saw the stalker following her persistently", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "'trouble' is uncountable. We don't use 'a' with uncountable nouns. Hence, 'in trouble' is correct."
+    },
+    {
+      "text": "All the people of India know that Gandhi ji was a very wise and a noble soul.",
+      "options": ["(a) All the people", "(b) of India know that", "(c) Gandhi ji was a very wise and a noble soul", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "When two adjectives describe the same person, use 'a' only before the first adjective. Hence, 'a very wise and noble soul'."
+    },
+    {
+      "text": "The man is the only creature that is endowed with the art of humour.",
+      "options": ["(a) The man", "(b) is the only creature", "(c) that is endowed with the art of humour", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "When 'man' means mankind/human race, we don't use 'the'. Hence, 'Man is the only creature...'"
+    },
+    {
+      "text": "It is very difficult to find out the number of the creatures living on the earth.",
+      "options": ["(a) It is very difficult", "(b) to find out the number of", "(c) the creatures living on the earth", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We are not talking about specific creatures. Hence, remove 'the' before 'creatures'."
+    },
+    {
+      "text": "While climbing the hill, to his amazement, the poor man found the box of pearls.",
+      "options": ["(a) While climbing the hill", "(b) to his amazement, the", "(c) poor man found the box of pearls", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "The box of pearls was not known to the man. Hence, use 'a box of pearls' instead of 'the box of pearls'."
+    },
+    {
+      "text": "The blast derailed the lives of many people but in an year time leaving apart the victims, no one remembered anything.",
+      "options": ["(a) The blast derailed the lives of many people but", "(b) in an year time leaving apart the victims,", "(c) no one remembered anything", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "'year' starts with a consonant sound ('y' sound). Hence, use 'a year' instead of 'an year'."
+    },
+    {
+      "text": "Cowards die several times, the braves die but once.",
+      "options": ["(a) Cowards die", "(b) several times,", "(c) the braves die but once", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "'brave' is an adjective. To refer to brave people, we say 'the brave', not 'braves'. 'Braves' is incorrect."
+    },
+    {
+      "text": "Akbar became a heir to the throne at a young age of thirteen.",
+      "options": ["(a) Akbar became a heir", "(b) to the throne at", "(c) a young age of thirteen", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "'heir' starts with a vowel sound (silent 'h'), so use 'an heir' instead of 'a heir'."
+    },
+    {
+      "text": "The both brothers are safe now and are recuperating.",
+      "options": ["(a) The both brothers", "(b) are safe now", "(c) and are recuperating", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "The correct structure is 'Both the brothers' or 'Both brothers', not 'The both brothers'."
+    },
+    {
+      "text": "When the principal entered the classroom all boys shook in their shoes.",
+      "options": ["(a) When the principal entered the classroom", "(b) all boys shook", "(c) in their shoes", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We are talking about specific boys (in that classroom). Hence, use 'all the boys'."
+    },
+    {
+      "text": "Father in him could not bear the condition of his ailing daughter.",
+      "options": ["(a) Father in him", "(b) could not bear the condition of", "(c) his ailing daughter", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "When referring to a quality within a person, use 'the'. Hence, 'The father in him'."
+    },
+    {
+      "text": "Let judge in you decide what punishment should be given to him.",
+      "options": ["(a) Let judge in you", "(b) decide what", "(c) punishment should be given to him", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "When referring to a quality within a person, use 'the'. Hence, 'Let the judge in you'."
+    },
+    {
+      "text": "My teacher said that Sun is a star.",
+      "options": ["(a) My teacher said that", "(b) Sun is a", "(c) star", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "We use 'the' before names of heavenly bodies. Hence, 'the Sun'."
+    },
+    {
+      "text": "Due to its beauty Kashmir is known as Switzerland of India.",
+      "options": ["(a) Due to its beauty", "(b) Kashmir is known as", "(c) Switzerland of India", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "When comparing to a country name in such expressions, we use 'the'. Hence, 'the Switzerland of India'."
+    },
+    {
+      "text": "Most of the people of Southern India do not know the Hindi.",
+      "options": ["(a) Most of the people of Southern India", "(b) do not know", "(c) the Hindi", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We don't use 'the' before names of languages. Hence, 'Hindi' (without 'the')."
+    },
+    {
+      "text": "He went for the lunch at 1 p.m. and then returned.",
+      "options": ["(a) He went for the lunch", "(b) at 1 p.m. and then", "(c) returned", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "We don't use 'the' before meals (lunch, dinner, breakfast) in general. Hence, 'went for lunch'."
+    },
+    {
+      "text": "The honesty is a virtue.",
+      "options": ["(a) The honesty", "(b) is", "(c) a virtue", "(d) No error"],
+      "correctAnswer": 0,
+      "explanation": "We don't use articles before abstract nouns in general statements. Hence, 'Honesty is a virtue'."
+    },
+    {
+      "text": "Every morning the Sun rises in east.",
+      "options": ["(a) Every morning the Sun", "(b) rises", "(c) in east", "(d) No error"],
+      "correctAnswer": 2,
+      "explanation": "We use 'the' before directions. Hence, 'in the east'."
+    },
+    {
+      "text": "He is best player in India.",
+      "options": ["(a) He is", "(b) best player", "(c) in India", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "'best' is superlative degree. Hence, use 'the best player'."
+    },
+    {
+      "text": "When I met him the couple of days back he was writing a new book.",
+      "options": ["(a) When I met him", "(b) the couple of days back", "(c) he was writing a new book", "(d) No error"],
+      "correctAnswer": 1,
+      "explanation": "We are not talking about a specific couple of days. Hence, use 'a couple of days'."
+    }
+  ]
+}
